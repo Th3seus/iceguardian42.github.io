@@ -1,13 +1,8 @@
 body {
-  margin: 0px auto;
-  max-width: 1500px;
   font-family: 'Fjalla One', sans-serif;
+  font-size: 120%;
 }
-#home{
-    
-    font: 40px/100%  'Fjalla One', sans-serif;
-}
-#contact{
-    font: 20px/100% 'Fjalla One', sans-serif;
-
+#main {
+    max-width: 800px;
+    margin: 0 auto;
 }
