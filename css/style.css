@@ -62,7 +62,7 @@ a:focus, a:hover {
 #mainNav .navbar-toggler {
   font-size: 14px;
   padding: 11px;
-  color: white;
+  color: black;
   border: 1px solid white;
 }
 
@@ -71,7 +71,7 @@ a:focus, a:hover {
 }
 
 #mainNav a {
-  color: white;
+  color: black;
 }
 
 #mainNav .navbar-nav .nav-item {
@@ -113,7 +113,7 @@ a:focus, a:hover {
     background-color: rgba(255, 255, 255, 0.3);
   }
   #mainNav .nav-link.active:hover {
-    color: white;
+    color: black;
   }
 }
 
